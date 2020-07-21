@@ -1,2 +1,2 @@
-# automating-aws-with-pyhton
-repository for automating AWS with python course
+# automating AWS with pyhton
+Repository for automating AWS with python course
